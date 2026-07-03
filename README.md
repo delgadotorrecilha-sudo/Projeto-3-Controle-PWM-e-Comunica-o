@@ -10,3 +10,5 @@ a execução do projeto, também foram analisadas e discutidas decisões de enge
 relacionadas à escolha do microcontrolador, ao aproveitamento dos recursos de hardware e
 software disponíveis, à otimização do consumo energético e aos desafios encontrados durante
 a implementação e integração dos diferentes módulos do sistema.
+
+Parte 1 - https://wokwi.com/projects/468551935017966593
