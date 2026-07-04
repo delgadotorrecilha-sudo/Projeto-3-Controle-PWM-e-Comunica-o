@@ -11,4 +11,7 @@ relacionadas à escolha do microcontrolador, ao aproveitamento dos recursos de h
 software disponíveis, à otimização do consumo energético e aos desafios encontrados durante
 a implementação e integração dos diferentes módulos do sistema.
 
+Luís Carlos Delgado Torrecilha - 15472530 
+Beatriz Fonseca Silva - 15653959
+
 Parte 1 - https://wokwi.com/projects/468551935017966593
