@@ -15,3 +15,5 @@ Luís Carlos Delgado Torrecilha - 15472530
 Beatriz Fonseca Silva - 15653959
 
 Parte 1 - https://wokwi.com/projects/468551935017966593
+
+Parte 2 - 1 - https://wokwi.com/projects/468574746974776321
