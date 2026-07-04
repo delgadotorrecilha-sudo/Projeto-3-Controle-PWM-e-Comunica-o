@@ -17,3 +17,7 @@ Beatriz Fonseca Silva - 15653959
 Parte 1 - https://wokwi.com/projects/468551935017966593
 
 Parte 2 - 1 - https://wokwi.com/projects/468574746974776321
+
+Parte 2 - 2 - https://wokwi.com/projects/468577686928329729
+
+O sistema lógico, o controle de estado e a configuração da biblioteca nativa mcpwm.h foram implementados e validados com sucesso através do monitoramento de dados via barramento I2C (Display OLED) e UART (Serial). No entanto, devido à recente migração do simulador Wokwi para o ESP32 Arduino Core v3.x, a renderização gráfica de atuadores físicos (motores e LEDs) atrelados às GPIOs controladas pela API legada do MCPWM apresenta falhas de compatibilidade visual. O funcionamento elétrico do microcontrolador, contudo, foi comprovado pela exatidão do processamento dos duty cycles exibidos nos periféricos de comunicação.
